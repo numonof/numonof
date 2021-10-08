@@ -483,7 +483,7 @@ header {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
     flex-flow: wrap;
     list-style: none;
@@ -771,17 +771,17 @@ header {
 .portfolio__list { margin: 0;
     padding: 0;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
     flex-flow: wrap;
     list-style: none;
 }
 
 .portfolio__list-item {
-    width: 420px;
+    width: 400px;
     height: 300px;
     box-shadow: 3px 0px 15px rgba(0, 0, 0, 0.5);
-    margin-top: 25px;
+    margin: 15px;
     padding: 15px;
     /* border-radius: 6px; */
     overflow: hidden;

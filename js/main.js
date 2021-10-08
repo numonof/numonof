@@ -1,1 +1,0 @@
-alert( "Hello there! Welcome to the site. This is my portfolio site. Click OK to view the portfolio.")
